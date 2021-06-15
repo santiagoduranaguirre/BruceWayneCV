@@ -39,7 +39,8 @@ main {
 .subtitles, h1 {
     font-feature-settings: "cpsp" on;
     background-color: #C4C4C4;
-    color: #005677;    ;
+    color: #005677;
+    letter-spacing: 12px;
 }
 
 
